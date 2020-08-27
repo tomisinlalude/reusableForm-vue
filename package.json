@@ -1,5 +1,5 @@
 {
-  "name": "default-vue",
+  "name": "reusable-checkout-form",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "bootstrap-vue": "^2.16.0",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },

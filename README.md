@@ -1,4 +1,4 @@
-# default-vue
+# reusable-checkout-form
 
 ## Project setup
 ```
